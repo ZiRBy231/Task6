@@ -7,7 +7,7 @@ btn1.addEventListener("click", f_out1);
     console.log(y3.checked);
     console.log(y4.checked);
 
-    if (y1.checked){
+    if (y2.checked){
       right.classList.remove("hidden");
       wrong_div.classList.add("hidden");
     }else{
